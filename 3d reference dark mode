@@ -1,0 +1,25 @@
+#hierarchy-editor .search-portal-tree-node--dark {
+  box-shadow: 4px 4px rgba(0, 0, 0)!important;
+  padding: 0.75em 0.5em!important;
+border: 2px solid #000!important;
+border-radius: 8px!important;
+margin: 0.2em 0 0.5em!important;
+transition: all ease-in 0.3s!important;
+
+}
+#hierarchy-editor .search-portal-tree-node--dark:hover {
+   box-shadow: 8px 8px rgba(0, 0, 0)!important;
+
+transform: translate(-4px, -4px)!important;
+
+}
+#hierarchy-editor .portal-rem .portal-rem-top--embedded-search-top {
+border-color: transparent!important;
+
+}
+#hierarchy-editor .rem-container__top-level-rem-in-portal-border .rem-container__top-level-rem-in-portal-border__inner {
+border-color: transparent!important;
+}
+#hierarchy-editor .hierarchy-editor__after-portal {
+border-color: transparent!important;
+}
