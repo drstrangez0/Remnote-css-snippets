@@ -4403,10 +4403,7 @@ cursor: pointer;
      transition-delay: 250ms;
     
     }
-    .rem-text {
-      font-size: 20px;
-     
-    }
+   
     .bold {
      font-weight: 700;
      color:#FE52B9;
@@ -4428,12 +4425,10 @@ cursor: pointer;
     }
     .quote:before {
       content: "\201C  ";
-      font-size: 30px;
       line-height: 0.1em;
       vertical-align: -0.3em;}
       .quote:after {
       content: " \201D";
-      font-size: 30px;
       line-height: 0.1em;
       vertical-align: -0.3em;
       }
